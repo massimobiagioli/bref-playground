@@ -1,0 +1,13 @@
+{
+    "name": "flowing/bref-playground",
+    "description": "Bref Playground",
+    "authors": [
+        {
+            "name": "Massimo Biagioli",
+            "email": "massimo.biagioli@ideato.info"
+        }
+    ],
+    "require": {
+        "bref/bref": "^0.5.24"
+    }
+}
